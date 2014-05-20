@@ -1,0 +1,17 @@
+{
+    "name": "letyii/yii2-chart",
+    "description": "Chart for yii2",
+    "homepage": "https://github.com/letyii/yii2-chart",
+    "keywords": ["yii2","chart"],
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.4",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "letyii\\chart\\": ""
+        }
+    }
+}
